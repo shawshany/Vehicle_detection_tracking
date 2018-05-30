@@ -917,5 +917,3 @@ white_clip = clip1.fl_image(pipline)
     
     CPU times: user 12min 32s, sys: 2.17 s, total: 12min 34s
     Wall time: 12min 32s
-
-
